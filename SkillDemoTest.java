@@ -4,6 +4,6 @@ import org.junit.*;
 public class SkillDemoTest {
   @Test
   public void doubling(){
-    assertEquals(3, SkillDemo.DoubleVal(1));
+    assertEquals(2, SkillDemo.DoubleVal(1));
   }
 }
